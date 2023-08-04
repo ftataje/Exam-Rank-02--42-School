@@ -13,7 +13,7 @@ int max(int *tab, unsigned int len)
 			max = tab[len];
 	return (max);
 }
-
+/*
 int main(void)
 {
     int a[] = {1, 3, 2};
@@ -21,3 +21,4 @@ int main(void)
     printf("res: %d\n", max(a, 3));
     return (0);
 }
+*/

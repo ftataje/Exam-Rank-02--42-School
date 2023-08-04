@@ -9,12 +9,13 @@ int     ft_strcmp(char  *s1, char   *s2)
         i++;
     return(s1[i] - s2[i]);
 }
-
+/*
 int main(void)
 {
     char str[] = "aaa";
     char str2[] = "aaab";
 
-    printf("res: %d", ft_strcmp(str, str2));
+    printf("res: %d\n", ft_strcmp(str, str2));
     return (0);
 }
+*/

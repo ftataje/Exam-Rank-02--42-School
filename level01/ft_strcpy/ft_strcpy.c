@@ -28,8 +28,8 @@ int	main(void)
 
 	n = 20;
 	printf(":%s: || :%s:\n", a, b);
-	printf("%zu\n", ft_strcpy(a, b));
-	//printf("%zu\n", strcpy(a, b));
+	printf("%s\n", ft_strcpy(a, b));
+	//printf("%s\n", strcpy(a, b));
 	printf("n = %d\n", n);
 	printf(":%s: || :%s:\n", a, b);
 	return (0);
